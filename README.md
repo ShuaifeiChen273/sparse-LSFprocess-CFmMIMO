@@ -2,7 +2,7 @@
 
 This is a code package is related to the following scientific article:
 
-Shuaifei Chen, Jiayi Zhang, Emil Björnson, Özlem Tuğfe Demir, and B. Ai, “[Energy-efficient cell-free massive MIMO through sparse large-scale fading processing](https://arxiv.org/abs/2208.13552),” IEEE Transactions on Wireless Communications, To appear, 2023.
+Shuaifei Chen, Jiayi Zhang, Emil Björnson, Özlem Tuğfe Demir, and B. Ai, “[Energy-efficient cell-free massive MIMO through sparse large-scale fading processing](https://ieeexplore.ieee.org/document/10113887),” IEEE Transactions on Wireless Communications, To appear, 2023.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
